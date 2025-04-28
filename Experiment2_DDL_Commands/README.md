@@ -1,6 +1,6 @@
 # Experiment 2: DDL Commands
 ## Name: BAVANKALYAN P V
-## Reg.no:212223060030
+## Reg.no: 212223060030
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
