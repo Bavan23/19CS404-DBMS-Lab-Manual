@@ -1,5 +1,6 @@
 # Experiment 3: DML Commands
-
+## Name: Bavankalyan P V
+## Reg.no: 212223060030
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
