@@ -1,5 +1,6 @@
-# Experiment 6: PL/SQL – Variables, Control Structures and Loops
-
+# Experiment 7: PL/SQL – Variables, Control Structures and Loops
+## Name: Bavankalyan P V
+## Reg.no:212223060030
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
